@@ -9,7 +9,6 @@ void delete_two_dim_array(int **arr, int row_cnt);
 
 void exercise_4()
 {
-
     std::ifstream input_file("c:\\Qt_Projects\\Homework_011\\in_4.txt");
     std::string str_1;
     std::string str_2;
@@ -82,5 +81,3 @@ void delete_two_dim_array(int **arr, int row_cnt)
     delete[] arr;
 
 }
-
-

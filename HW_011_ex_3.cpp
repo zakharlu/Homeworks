@@ -40,4 +40,3 @@ int* create_arr(int size_arr)
 
     return arr_new;
 }
-
